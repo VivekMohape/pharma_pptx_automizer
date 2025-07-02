@@ -1,0 +1,27 @@
+{
+  "master_title": "Pharma_CI_PPT_Maker",
+  "es_box_1": [
+    "DrugX improved survival in HER2-low NSCLC cases.",
+    "Tumor size reduced significantly in 45% of patients.",
+    "Consistent results across all patient subgroups.",
+    "Quality of life improved with DrugX treatment."
+  ],
+  "es_box_2": [
+    "Fatigue and nausea were the most common side effects.",
+    "Good results in both naïve and pre-treated patients.",
+    "No drug-drug interactions were identified so far.",
+    "Discontinuation due to side effects was below 8%."
+  ],
+  "es_box_3": [
+    "PFS benefit exceeded 6 months in Phase 3 trial data.",
+    "Comorbidities had minimal impact on DrugX outcomes.",
+    "Patients reported better sleep and energy levels.",
+    "HER2 targeting was precise with few off-target hits."
+  ],
+  "es_box_4": [
+    "No major toxicities seen during dose escalation.",
+    "Stable drug absorption across all dose levels.",
+    "Early response seen within the first 3 weeks.",
+    "Tumor response was durable in over 65% cases."
+  ]
+}

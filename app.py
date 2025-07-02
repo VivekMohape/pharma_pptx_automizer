@@ -19,5 +19,4 @@ if uploaded_file:
         with open("output/final_combined.pptx", "rb") as f:
             st.download_button("Download Final PPT", f, "final_combined.pptx")
     else:
-        st.error("Error:
-" + result.stderr)
+        st.error("Error:\n" + result.stderr)
